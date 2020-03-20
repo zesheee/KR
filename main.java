@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+	    // ADAMOV MAXIM
         System.out.println (" zadanie 1");
         System.out.println(zadanie_1(10,2));
 	    System.out.println (" zadanie 2");
